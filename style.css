@@ -1,0 +1,23 @@
+.heading
+{
+font-size: 30px;
+width: 100%;
+background-color: cornflowerblue;
+height: 60px;
+padding-top: 12px;
+font-weight: 700;
+}
+
+#status, #personCount
+{
+font-size: 18px;
+}
+
+body{
+    background-position: center;
+    background-size: cover;
+}
+
+canvas{
+    margin-top: 130px;
+}
